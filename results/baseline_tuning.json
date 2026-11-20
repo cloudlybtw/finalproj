@@ -1,0 +1,42 @@
+{
+  "candidates": [
+    {
+      "C": 0.01,
+      "seconds": 5.39446874987334,
+      "iterations": 484,
+      "converged": true,
+      "accuracy": 0.8600833333333333,
+      "macro_f1": 0.8595612476831439,
+      "balanced_accuracy": 0.8600833333333332
+    },
+    {
+      "C": 0.1,
+      "seconds": 5.843002459034324,
+      "iterations": 510,
+      "converged": true,
+      "accuracy": 0.8544166666666667,
+      "macro_f1": 0.8536181856823444,
+      "balanced_accuracy": 0.8544166666666667
+    },
+    {
+      "C": 1.0,
+      "seconds": 12.615055332891643,
+      "iterations": 1112,
+      "converged": true,
+      "accuracy": 0.8455833333333334,
+      "macro_f1": 0.844896018674147,
+      "balanced_accuracy": 0.8455833333333332
+    }
+  ],
+  "selected": {
+    "C": 0.01,
+    "seconds": 5.39446874987334,
+    "iterations": 484,
+    "converged": true,
+    "accuracy": 0.8600833333333333,
+    "macro_f1": 0.8595612476831439,
+    "balanced_accuracy": 0.8600833333333332
+  },
+  "parameters": 7850,
+  "total_seconds": 23.852526541799307
+}

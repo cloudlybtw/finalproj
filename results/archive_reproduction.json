@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "checked_at_utc": "2026-11-20T11:12:32.065308+00:00",
+  "retrained_project": "/private/tmp/robt407-package-check-_zogzy4v/robt407-fashion-mnist",
+  "command": ".venv/bin/python scripts/run_notebook.py --mode train",
+  "environment": "fresh virtual environment; all 74 pinned requirements installed and pip check passed",
+  "dataset": "All original MD5 checks passed. Three files freshly downloaded; the tiny test-label cache was reused during a slow request and also independently re-downloaded with identical checksum.",
+  "training": "All three baseline candidates and six CNNs refitted from initialization; no checkpoint reuse during fitting.",
+  "prediction_vectors_identical": 7,
+  "test_examples_per_vector": 10000,
+  "test_indices_and_labels_identical": true,
+  "reported_metrics_selected_epochs_parameters_identical": true,
+  "history_max_absolute_differences": {
+    "cnn_11": 0.0,
+    "cnn_22": 0.0,
+    "cnn_33": 0.0,
+    "dropout_11": 0.0,
+    "dropout_22": 0.0,
+    "dropout_33": 0.0
+  },
+  "runtime_file_sha256": {
+    "config.json": "39b8ff376c93919d045b6da9b11ede4956243d9f3657f6245e0eeec283368d5e",
+    "requirements.txt": "2ed1ad01dde2c9c629eaec2ea8b324ac8394347d12c770d01d0cc8d0b1ee6e48",
+    "notebooks/fashion_mnist.ipynb": "bbcb968817cfd3bd657c2761ba1014806c6ae432e6d211a7d14ecd15960eda20",
+    "scripts/run_notebook.py": "c0338c27499a4f31c2342aa421ebc55296dcceed764376a74d401ef1c9200be8",
+    "scripts/refine_figures.py": "0b27c8d29acfc0db76813d99922bd8a01913666ad7a7a6664c3da97c34b4fc30",
+    "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src/analysis.py": "83bff36d41fbc85687a04c94a2d8802d9d55a021d38aff3f0ce3c9d05730c6b2",
+    "src/data.py": "848271a42e139c0cc416e3dc33c2e94b15c16331d28b9462d3d34b9f6e0b0097",
+    "src/study.py": "8f9e181c8a421c4370749b3373a2705d4a6c1cd3f966f3c0b7fe27be665fb81b"
+  },
+  "notebook_execution": {
+    "mode": "train",
+    "completed_at_utc": "2026-11-20T11:12:27.732262+00:00",
+    "notebook": "notebooks/fashion_mnist.executed.ipynb",
+    "code_cells": 8,
+    "executed_cells": 8,
+    "error_outputs": 0,
+    "outputs_retained": 97,
+    "sha256": "8d2f37a1c85aea71d4bb7b95b2cad1bd377554d8eb582f4353de57e8a2e9c39d"
+  },
+  "reference_times_preserved": true,
+  "retraining_seconds": {
+    "logistic": 5.425136708188802,
+    "cnn_11": 54.98221845924854,
+    "cnn_22": 58.56933820899576,
+    "cnn_33": 59.39525058399886,
+    "dropout_11": 59.19733783323318,
+    "dropout_22": 64.77130075031891,
+    "dropout_33": 72.974364916794
+  },
+  "retrained_notebook": "verification/fashion_mnist.retrained.ipynb",
+  "notes": "The report uses the original measured times. Reproduction times are recorded separately; no original model, numerical result, or report was replaced."
+}

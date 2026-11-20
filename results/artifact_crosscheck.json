@@ -1,0 +1,15 @@
+{
+  "report_content_pages": 6,
+  "report": {
+    "pages": 7,
+    "expected_numeric_tokens_checked": 21,
+    "sha256": "b298aaa73e5c3be1e731f0a227e6c3fb889f53660b10c81054d1dc36731719b1"
+  },
+  "slides": {
+    "pages": 17,
+    "expected_numeric_tokens_checked": 21,
+    "sha256": "d27e37ad5ed9846b22502e292968c4372d7cf7f89a71d00be7d7881f0a561f3b"
+  },
+  "notebook_provenance": "Original full training + documented visual refresh + clean-kernel verification checked",
+  "status": "PASS"
+}

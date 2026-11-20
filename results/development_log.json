@@ -1,0 +1,28 @@
+{
+  "event": "Pre-test baseline convergence repair",
+  "test_evaluated": false,
+  "cnn_runs_started": false,
+  "original_max_iter": 500,
+  "final_max_iter": 5000,
+  "reason": "C=0.1 and C=1 reached iteration cap; all baseline candidates are rerun with a larger common cap. No change to CNN protocol.",
+  "initial_candidates": [
+    {
+      "C": 0.01,
+      "iterations": 484,
+      "converged": true,
+      "seconds": 5.408275958150625
+    },
+    {
+      "C": 0.1,
+      "iterations": 500,
+      "converged": false,
+      "seconds": 6.033618458081037
+    },
+    {
+      "C": 1.0,
+      "iterations": 500,
+      "converged": false,
+      "seconds": 6.919768791645765
+    }
+  ]
+}

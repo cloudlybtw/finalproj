@@ -1,0 +1,9 @@
+{
+  "at_utc": "2026-11-20T10:50:24.579111+00:00",
+  "reason": "Error-grid row captions overlapped. Spacing only repaired by scripts/refine_figures.py.",
+  "frozen_src_changed": false,
+  "numerical_results_changed": false,
+  "training_notebook_original_sha256": "aba4c838396f6318c9773e5ccaa38f36123a5e93b8db642c74356de64e4c560a",
+  "training_notebook_after_visual_refresh_sha256": "a5fcf6bd619074e87c9dcbed0890f4fb72cf803d3223e57d5eb90be425e4d6ee",
+  "clean_kernel_verification": "notebooks/fashion_mnist.verified.ipynb"
+}

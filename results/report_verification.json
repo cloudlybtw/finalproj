@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "pdf_sha256": "b298aaa73e5c3be1e731f0a227e6c3fb889f53660b10c81054d1dc36731719b1",
+  "total_pages": 7,
+  "content_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "references_pages": [
+    7
+  ],
+  "IEEEtran_class_unmodified": true,
+  "conference_mode_normal_margins_fonts": true,
+  "all_seven_accuracy_and_macro_f1_rows_match_saved_comparison_at_display_precision": true,
+  "all_three_paired_deltas_match": true,
+  "undefined_references": false,
+  "overfull_boxes": false,
+  "font_substitution_warnings": false,
+  "underfull_spacing_warnings": "Present; reviewed visually, no clipped text or overlaps.",
+  "page_map": {
+    "1": "Abstract; hypothesis; source, inclusion and duplicate audit; partition table",
+    "2": "Training-only normalization; metrics; validation/freeze policy; logistic search and architecture tables; loss",
+    "3": "Training loop; controls and sanity checks; aggregate results; budgets, timing, hardware; class analysis start",
+    "4": "Every run and seed, selected epochs, times; paired deltas; class F1 and labels; error interpretation; discussion start",
+    "5": "All six training/validation curves; limitations; reproduction/verification",
+    "6": "Seed-11 confusion matrix and four representative errors; verification, sources, conclusion and pending contribution statement",
+    "7": "References only"
+  },
+  "visual_review": "Every final rendered page inspected; no clipping/overlap; embedded figures legible at normal reading zoom.",
+  "literal_double_hyphen_command_verified": true
+}

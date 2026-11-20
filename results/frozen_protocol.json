@@ -1,0 +1,118 @@
+{
+  "frozen_at_utc": "2026-11-20T10:47:59.336761+00:00",
+  "test_metrics_consulted": false,
+  "config": {
+    "dataset": "Fashion-MNIST original IDX release (2017), MD5 verified",
+    "split_seed": 407,
+    "validation_fraction": 0.2,
+    "seeds": [
+      11,
+      22,
+      33
+    ],
+    "dropout": 0.3,
+    "epochs": 12,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "optimizer": "Adam",
+    "weight_decay": 0.0,
+    "checkpoint_rule": "highest validation macro-F1, earliest epoch breaks ties",
+    "baseline_C": [
+      0.01,
+      0.1,
+      1.0
+    ],
+    "baseline_max_iter": 5000,
+    "baseline_tol": 0.0001,
+    "threads": 4,
+    "device": "cpu",
+    "primary_metric": "macro-F1",
+    "duplicate_policy": "Preserve full official test set. Exclude development hashes present in test. Exclude conflicting-label development hash groups. Keep lowest original index per remaining exact-image hash. Then fixed stratified split."
+  },
+  "selected_baseline": {
+    "C": 0.01,
+    "seconds": 5.39446874987334,
+    "iterations": 484,
+    "converged": true,
+    "accuracy": 0.8600833333333333,
+    "macro_f1": 0.8595612476831439,
+    "balanced_accuracy": 0.8600833333333332
+  },
+  "selected_cnns": [
+    {
+      "variant": "cnn",
+      "seed": 11,
+      "dropout": 0.0,
+      "selected_epoch": 12,
+      "val_macro_f1": 0.9181057130691697,
+      "train_seconds": 56.42864549998194,
+      "epochs": 12,
+      "parameters": 105866
+    },
+    {
+      "variant": "cnn",
+      "seed": 22,
+      "dropout": 0.0,
+      "selected_epoch": 12,
+      "val_macro_f1": 0.9164383192377784,
+      "train_seconds": 57.01266729226336,
+      "epochs": 12,
+      "parameters": 105866
+    },
+    {
+      "variant": "cnn",
+      "seed": 33,
+      "dropout": 0.0,
+      "selected_epoch": 12,
+      "val_macro_f1": 0.9179719497490136,
+      "train_seconds": 74.19459787523374,
+      "epochs": 12,
+      "parameters": 105866
+    },
+    {
+      "variant": "dropout",
+      "seed": 11,
+      "dropout": 0.3,
+      "selected_epoch": 9,
+      "val_macro_f1": 0.9159676501744437,
+      "train_seconds": 64.41985054127872,
+      "epochs": 12,
+      "parameters": 105866
+    },
+    {
+      "variant": "dropout",
+      "seed": 22,
+      "dropout": 0.3,
+      "selected_epoch": 12,
+      "val_macro_f1": 0.9155704462768778,
+      "train_seconds": 85.1563605829142,
+      "epochs": 12,
+      "parameters": 105866
+    },
+    {
+      "variant": "dropout",
+      "seed": 33,
+      "dropout": 0.3,
+      "selected_epoch": 12,
+      "val_macro_f1": 0.913270303915397,
+      "train_seconds": 82.72149758366868,
+      "epochs": 12,
+      "parameters": 105866
+    }
+  ],
+  "sha256": {
+    "config.json": "39b8ff376c93919d045b6da9b11ede4956243d9f3657f6245e0eeec283368d5e",
+    "results/split_indices.npz": "52cb0b4fdca53e8b5e1630b77b140233d4811e39daab5f02eed31ded7af061dd",
+    "checkpoints/cnn_11.pt": "4f20f9e960dfaa524f3ef4753eb83813100f2abf5386e0bcad36008d20fc650e",
+    "checkpoints/cnn_22.pt": "5cffa0c46437e6879bc52f122dbde7832273247e2932f9ddc4827f7e865c480c",
+    "checkpoints/cnn_33.pt": "7563f048f2254b8dbf54cf3c3b5bdcc2797a871866345942af2fe8d6b8ebf63c",
+    "checkpoints/dropout_11.pt": "6f148e613d8c28a5013c765d9e538759fa2c48c96c5fa658a212c708e4426c07",
+    "checkpoints/dropout_22.pt": "f2320106462e2ecb4b2a411ce1205a4f7f6d244a721544ce0035268f385f0910",
+    "checkpoints/dropout_33.pt": "86a1cbe9840c8059ab20a4462d41b741e86224f8ee0dc8e1f6579da28f72a1c9",
+    "checkpoints/logistic.joblib": "8a585f056dc538e46785c5270aa7131f6d0248f9c20c86528fb2ff52a1ff2e62",
+    "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src/analysis.py": "83bff36d41fbc85687a04c94a2d8802d9d55a021d38aff3f0ce3c9d05730c6b2",
+    "src/data.py": "848271a42e139c0cc416e3dc33c2e94b15c16331d28b9462d3d34b9f6e0b0097",
+    "src/study.py": "8f9e181c8a421c4370749b3373a2705d4a6c1cd3f966f3c0b7fe27be665fb81b"
+  }
+}

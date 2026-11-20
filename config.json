@@ -1,0 +1,28 @@
+{
+  "dataset": "Fashion-MNIST original IDX release (2017), MD5 verified",
+  "split_seed": 407,
+  "validation_fraction": 0.2,
+  "seeds": [
+    11,
+    22,
+    33
+  ],
+  "dropout": 0.3,
+  "epochs": 12,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "optimizer": "Adam",
+  "weight_decay": 0.0,
+  "checkpoint_rule": "highest validation macro-F1, earliest epoch breaks ties",
+  "baseline_C": [
+    0.01,
+    0.1,
+    1.0
+  ],
+  "baseline_max_iter": 5000,
+  "baseline_tol": 0.0001,
+  "threads": 4,
+  "device": "cpu",
+  "primary_metric": "macro-F1",
+  "duplicate_policy": "Preserve full official test set. Exclude development hashes present in test. Exclude conflicting-label development hash groups. Keep lowest original index per remaining exact-image hash. Then fixed stratified split."
+}

@@ -1,0 +1,80 @@
+{
+  "analysis": "Exploratory after test evaluation",
+  "run": "dropout_11",
+  "representative_seed_predeclared": 11,
+  "selection_rule": "Eight largest directed off-diagonal counts; ties by true then predicted class ID. For each pair choose the lowest official test index.",
+  "examples": [
+    {
+      "test_index": 40,
+      "run": "dropout_11",
+      "true_class_id": 6,
+      "true_class": "Shirt",
+      "predicted_class_id": 0,
+      "predicted_class": "T-shirt/top",
+      "pair_count": 142
+    },
+    {
+      "test_index": 381,
+      "run": "dropout_11",
+      "true_class_id": 0,
+      "true_class": "T-shirt/top",
+      "predicted_class_id": 6,
+      "predicted_class": "Shirt",
+      "pair_count": 74
+    },
+    {
+      "test_index": 117,
+      "run": "dropout_11",
+      "true_class_id": 6,
+      "true_class": "Shirt",
+      "predicted_class_id": 4,
+      "predicted_class": "Coat",
+      "pair_count": 73
+    },
+    {
+      "test_index": 25,
+      "run": "dropout_11",
+      "true_class_id": 4,
+      "true_class": "Coat",
+      "predicted_class_id": 2,
+      "predicted_class": "Pullover",
+      "pair_count": 68
+    },
+    {
+      "test_index": 244,
+      "run": "dropout_11",
+      "true_class_id": 6,
+      "true_class": "Shirt",
+      "predicted_class_id": 2,
+      "predicted_class": "Pullover",
+      "pair_count": 61
+    },
+    {
+      "test_index": 49,
+      "run": "dropout_11",
+      "true_class_id": 2,
+      "true_class": "Pullover",
+      "predicted_class_id": 6,
+      "predicted_class": "Shirt",
+      "pair_count": 55
+    },
+    {
+      "test_index": 457,
+      "run": "dropout_11",
+      "true_class_id": 2,
+      "true_class": "Pullover",
+      "predicted_class_id": 4,
+      "predicted_class": "Coat",
+      "pair_count": 53
+    },
+    {
+      "test_index": 50,
+      "run": "dropout_11",
+      "true_class_id": 4,
+      "true_class": "Coat",
+      "predicted_class_id": 6,
+      "predicted_class": "Shirt",
+      "pair_count": 52
+    }
+  ]
+}

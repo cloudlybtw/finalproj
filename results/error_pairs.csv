@@ -1,0 +1,631 @@
+run,variant,seed,true_class_id,true_class,predicted_class_id,predicted_class,count,fraction_of_true_class
+cnn_11,cnn,11.0,6,Shirt,0,T-shirt/top,170,0.17
+cnn_11,cnn,11.0,2,Pullover,4,Coat,78,0.078
+cnn_11,cnn,11.0,6,Shirt,4,Coat,78,0.078
+cnn_11,cnn,11.0,2,Pullover,6,Shirt,59,0.059
+cnn_11,cnn,11.0,6,Shirt,2,Pullover,52,0.052
+cnn_11,cnn,11.0,0,T-shirt/top,6,Shirt,47,0.047
+cnn_11,cnn,11.0,4,Coat,6,Shirt,47,0.047
+cnn_11,cnn,11.0,6,Shirt,3,Dress,33,0.033
+cnn_11,cnn,11.0,9,Ankle boot,7,Sneaker,30,0.03
+cnn_11,cnn,11.0,4,Coat,2,Pullover,29,0.029
+cnn_11,cnn,11.0,4,Coat,3,Dress,28,0.028
+cnn_11,cnn,11.0,3,Dress,0,T-shirt/top,25,0.025
+cnn_11,cnn,11.0,2,Pullover,0,T-shirt/top,24,0.024
+cnn_11,cnn,11.0,3,Dress,4,Coat,19,0.019
+cnn_11,cnn,11.0,7,Sneaker,5,Sandal,17,0.017
+cnn_11,cnn,11.0,3,Dress,6,Shirt,16,0.016
+cnn_11,cnn,11.0,0,T-shirt/top,3,Dress,15,0.015
+cnn_11,cnn,11.0,1,Trouser,3,Dress,14,0.014
+cnn_11,cnn,11.0,7,Sneaker,9,Ankle boot,14,0.014
+cnn_11,cnn,11.0,2,Pullover,3,Dress,10,0.01
+cnn_11,cnn,11.0,5,Sandal,7,Sneaker,10,0.01
+cnn_11,cnn,11.0,0,T-shirt/top,2,Pullover,9,0.009
+cnn_11,cnn,11.0,8,Bag,0,T-shirt/top,8,0.008
+cnn_11,cnn,11.0,9,Ankle boot,5,Sandal,7,0.007
+cnn_11,cnn,11.0,0,T-shirt/top,8,Bag,6,0.006
+cnn_11,cnn,11.0,3,Dress,2,Pullover,6,0.006
+cnn_11,cnn,11.0,6,Shirt,8,Bag,6,0.006
+cnn_11,cnn,11.0,5,Sandal,9,Ankle boot,5,0.005
+cnn_11,cnn,11.0,8,Bag,3,Dress,4,0.004
+cnn_11,cnn,11.0,0,T-shirt/top,4,Coat,3,0.003
+cnn_11,cnn,11.0,1,Trouser,6,Shirt,3,0.003
+cnn_11,cnn,11.0,4,Coat,0,T-shirt/top,3,0.003
+cnn_11,cnn,11.0,8,Bag,4,Coat,3,0.003
+cnn_11,cnn,11.0,8,Bag,7,Sneaker,3,0.003
+cnn_11,cnn,11.0,0,T-shirt/top,5,Sandal,2,0.002
+cnn_11,cnn,11.0,1,Trouser,4,Coat,2,0.002
+cnn_11,cnn,11.0,3,Dress,1,Trouser,2,0.002
+cnn_11,cnn,11.0,8,Bag,1,Trouser,2,0.002
+cnn_11,cnn,11.0,8,Bag,2,Pullover,2,0.002
+cnn_11,cnn,11.0,8,Bag,5,Sandal,2,0.002
+cnn_11,cnn,11.0,1,Trouser,0,T-shirt/top,1,0.001
+cnn_11,cnn,11.0,2,Pullover,1,Trouser,1,0.001
+cnn_11,cnn,11.0,8,Bag,6,Shirt,1,0.001
+cnn_11,cnn,11.0,9,Ankle boot,6,Shirt,1,0.001
+cnn_11,cnn,11.0,0,T-shirt/top,1,Trouser,0,0.0
+cnn_11,cnn,11.0,0,T-shirt/top,7,Sneaker,0,0.0
+cnn_11,cnn,11.0,0,T-shirt/top,9,Ankle boot,0,0.0
+cnn_11,cnn,11.0,1,Trouser,2,Pullover,0,0.0
+cnn_11,cnn,11.0,1,Trouser,5,Sandal,0,0.0
+cnn_11,cnn,11.0,1,Trouser,7,Sneaker,0,0.0
+cnn_11,cnn,11.0,1,Trouser,8,Bag,0,0.0
+cnn_11,cnn,11.0,1,Trouser,9,Ankle boot,0,0.0
+cnn_11,cnn,11.0,2,Pullover,5,Sandal,0,0.0
+cnn_11,cnn,11.0,2,Pullover,7,Sneaker,0,0.0
+cnn_11,cnn,11.0,2,Pullover,8,Bag,0,0.0
+cnn_11,cnn,11.0,2,Pullover,9,Ankle boot,0,0.0
+cnn_11,cnn,11.0,3,Dress,5,Sandal,0,0.0
+cnn_11,cnn,11.0,3,Dress,7,Sneaker,0,0.0
+cnn_11,cnn,11.0,3,Dress,8,Bag,0,0.0
+cnn_11,cnn,11.0,3,Dress,9,Ankle boot,0,0.0
+cnn_11,cnn,11.0,4,Coat,1,Trouser,0,0.0
+cnn_11,cnn,11.0,4,Coat,5,Sandal,0,0.0
+cnn_11,cnn,11.0,4,Coat,7,Sneaker,0,0.0
+cnn_11,cnn,11.0,4,Coat,8,Bag,0,0.0
+cnn_11,cnn,11.0,4,Coat,9,Ankle boot,0,0.0
+cnn_11,cnn,11.0,5,Sandal,0,T-shirt/top,0,0.0
+cnn_11,cnn,11.0,5,Sandal,1,Trouser,0,0.0
+cnn_11,cnn,11.0,5,Sandal,2,Pullover,0,0.0
+cnn_11,cnn,11.0,5,Sandal,3,Dress,0,0.0
+cnn_11,cnn,11.0,5,Sandal,4,Coat,0,0.0
+cnn_11,cnn,11.0,5,Sandal,6,Shirt,0,0.0
+cnn_11,cnn,11.0,5,Sandal,8,Bag,0,0.0
+cnn_11,cnn,11.0,6,Shirt,1,Trouser,0,0.0
+cnn_11,cnn,11.0,6,Shirt,5,Sandal,0,0.0
+cnn_11,cnn,11.0,6,Shirt,7,Sneaker,0,0.0
+cnn_11,cnn,11.0,6,Shirt,9,Ankle boot,0,0.0
+cnn_11,cnn,11.0,7,Sneaker,0,T-shirt/top,0,0.0
+cnn_11,cnn,11.0,7,Sneaker,1,Trouser,0,0.0
+cnn_11,cnn,11.0,7,Sneaker,2,Pullover,0,0.0
+cnn_11,cnn,11.0,7,Sneaker,3,Dress,0,0.0
+cnn_11,cnn,11.0,7,Sneaker,4,Coat,0,0.0
+cnn_11,cnn,11.0,7,Sneaker,6,Shirt,0,0.0
+cnn_11,cnn,11.0,7,Sneaker,8,Bag,0,0.0
+cnn_11,cnn,11.0,8,Bag,9,Ankle boot,0,0.0
+cnn_11,cnn,11.0,9,Ankle boot,0,T-shirt/top,0,0.0
+cnn_11,cnn,11.0,9,Ankle boot,1,Trouser,0,0.0
+cnn_11,cnn,11.0,9,Ankle boot,2,Pullover,0,0.0
+cnn_11,cnn,11.0,9,Ankle boot,3,Dress,0,0.0
+cnn_11,cnn,11.0,9,Ankle boot,4,Coat,0,0.0
+cnn_11,cnn,11.0,9,Ankle boot,8,Bag,0,0.0
+cnn_22,cnn,22.0,6,Shirt,0,T-shirt/top,111,0.111
+cnn_22,cnn,22.0,2,Pullover,4,Coat,88,0.088
+cnn_22,cnn,22.0,0,T-shirt/top,6,Shirt,87,0.087
+cnn_22,cnn,22.0,6,Shirt,4,Coat,77,0.077
+cnn_22,cnn,22.0,2,Pullover,6,Shirt,66,0.066
+cnn_22,cnn,22.0,4,Coat,6,Shirt,59,0.059
+cnn_22,cnn,22.0,3,Dress,4,Coat,40,0.04
+cnn_22,cnn,22.0,6,Shirt,2,Pullover,39,0.039
+cnn_22,cnn,22.0,9,Ankle boot,7,Sneaker,32,0.032
+cnn_22,cnn,22.0,2,Pullover,0,T-shirt/top,29,0.029
+cnn_22,cnn,22.0,3,Dress,6,Shirt,29,0.029
+cnn_22,cnn,22.0,5,Sandal,7,Sneaker,28,0.028
+cnn_22,cnn,22.0,5,Sandal,9,Ankle boot,26,0.026
+cnn_22,cnn,22.0,4,Coat,2,Pullover,23,0.023
+cnn_22,cnn,22.0,6,Shirt,3,Dress,20,0.02
+cnn_22,cnn,22.0,7,Sneaker,9,Ankle boot,20,0.02
+cnn_22,cnn,22.0,4,Coat,3,Dress,12,0.012
+cnn_22,cnn,22.0,0,T-shirt/top,3,Dress,11,0.011
+cnn_22,cnn,22.0,3,Dress,0,T-shirt/top,11,0.011
+cnn_22,cnn,22.0,0,T-shirt/top,2,Pullover,10,0.01
+cnn_22,cnn,22.0,0,T-shirt/top,8,Bag,8,0.008
+cnn_22,cnn,22.0,2,Pullover,3,Dress,8,0.008
+cnn_22,cnn,22.0,6,Shirt,8,Bag,8,0.008
+cnn_22,cnn,22.0,3,Dress,2,Pullover,7,0.007
+cnn_22,cnn,22.0,1,Trouser,3,Dress,6,0.006
+cnn_22,cnn,22.0,8,Bag,0,T-shirt/top,6,0.006
+cnn_22,cnn,22.0,0,T-shirt/top,4,Coat,5,0.005
+cnn_22,cnn,22.0,1,Trouser,6,Shirt,5,0.005
+cnn_22,cnn,22.0,3,Dress,1,Trouser,5,0.005
+cnn_22,cnn,22.0,8,Bag,7,Sneaker,4,0.004
+cnn_22,cnn,22.0,6,Shirt,1,Trouser,3,0.003
+cnn_22,cnn,22.0,8,Bag,6,Shirt,3,0.003
+cnn_22,cnn,22.0,2,Pullover,1,Trouser,2,0.002
+cnn_22,cnn,22.0,2,Pullover,8,Bag,2,0.002
+cnn_22,cnn,22.0,3,Dress,8,Bag,2,0.002
+cnn_22,cnn,22.0,8,Bag,1,Trouser,2,0.002
+cnn_22,cnn,22.0,8,Bag,4,Coat,2,0.002
+cnn_22,cnn,22.0,0,T-shirt/top,1,Trouser,1,0.001
+cnn_22,cnn,22.0,0,T-shirt/top,5,Sandal,1,0.001
+cnn_22,cnn,22.0,1,Trouser,4,Coat,1,0.001
+cnn_22,cnn,22.0,4,Coat,0,T-shirt/top,1,0.001
+cnn_22,cnn,22.0,5,Sandal,8,Bag,1,0.001
+cnn_22,cnn,22.0,8,Bag,2,Pullover,1,0.001
+cnn_22,cnn,22.0,8,Bag,3,Dress,1,0.001
+cnn_22,cnn,22.0,8,Bag,5,Sandal,1,0.001
+cnn_22,cnn,22.0,9,Ankle boot,5,Sandal,1,0.001
+cnn_22,cnn,22.0,9,Ankle boot,6,Shirt,1,0.001
+cnn_22,cnn,22.0,0,T-shirt/top,7,Sneaker,0,0.0
+cnn_22,cnn,22.0,0,T-shirt/top,9,Ankle boot,0,0.0
+cnn_22,cnn,22.0,1,Trouser,0,T-shirt/top,0,0.0
+cnn_22,cnn,22.0,1,Trouser,2,Pullover,0,0.0
+cnn_22,cnn,22.0,1,Trouser,5,Sandal,0,0.0
+cnn_22,cnn,22.0,1,Trouser,7,Sneaker,0,0.0
+cnn_22,cnn,22.0,1,Trouser,8,Bag,0,0.0
+cnn_22,cnn,22.0,1,Trouser,9,Ankle boot,0,0.0
+cnn_22,cnn,22.0,2,Pullover,5,Sandal,0,0.0
+cnn_22,cnn,22.0,2,Pullover,7,Sneaker,0,0.0
+cnn_22,cnn,22.0,2,Pullover,9,Ankle boot,0,0.0
+cnn_22,cnn,22.0,3,Dress,5,Sandal,0,0.0
+cnn_22,cnn,22.0,3,Dress,7,Sneaker,0,0.0
+cnn_22,cnn,22.0,3,Dress,9,Ankle boot,0,0.0
+cnn_22,cnn,22.0,4,Coat,1,Trouser,0,0.0
+cnn_22,cnn,22.0,4,Coat,5,Sandal,0,0.0
+cnn_22,cnn,22.0,4,Coat,7,Sneaker,0,0.0
+cnn_22,cnn,22.0,4,Coat,8,Bag,0,0.0
+cnn_22,cnn,22.0,4,Coat,9,Ankle boot,0,0.0
+cnn_22,cnn,22.0,5,Sandal,0,T-shirt/top,0,0.0
+cnn_22,cnn,22.0,5,Sandal,1,Trouser,0,0.0
+cnn_22,cnn,22.0,5,Sandal,2,Pullover,0,0.0
+cnn_22,cnn,22.0,5,Sandal,3,Dress,0,0.0
+cnn_22,cnn,22.0,5,Sandal,4,Coat,0,0.0
+cnn_22,cnn,22.0,5,Sandal,6,Shirt,0,0.0
+cnn_22,cnn,22.0,6,Shirt,5,Sandal,0,0.0
+cnn_22,cnn,22.0,6,Shirt,7,Sneaker,0,0.0
+cnn_22,cnn,22.0,6,Shirt,9,Ankle boot,0,0.0
+cnn_22,cnn,22.0,7,Sneaker,0,T-shirt/top,0,0.0
+cnn_22,cnn,22.0,7,Sneaker,1,Trouser,0,0.0
+cnn_22,cnn,22.0,7,Sneaker,2,Pullover,0,0.0
+cnn_22,cnn,22.0,7,Sneaker,3,Dress,0,0.0
+cnn_22,cnn,22.0,7,Sneaker,4,Coat,0,0.0
+cnn_22,cnn,22.0,7,Sneaker,5,Sandal,0,0.0
+cnn_22,cnn,22.0,7,Sneaker,6,Shirt,0,0.0
+cnn_22,cnn,22.0,7,Sneaker,8,Bag,0,0.0
+cnn_22,cnn,22.0,8,Bag,9,Ankle boot,0,0.0
+cnn_22,cnn,22.0,9,Ankle boot,0,T-shirt/top,0,0.0
+cnn_22,cnn,22.0,9,Ankle boot,1,Trouser,0,0.0
+cnn_22,cnn,22.0,9,Ankle boot,2,Pullover,0,0.0
+cnn_22,cnn,22.0,9,Ankle boot,3,Dress,0,0.0
+cnn_22,cnn,22.0,9,Ankle boot,4,Coat,0,0.0
+cnn_22,cnn,22.0,9,Ankle boot,8,Bag,0,0.0
+cnn_33,cnn,33.0,6,Shirt,0,T-shirt/top,112,0.112
+cnn_33,cnn,33.0,6,Shirt,4,Coat,80,0.08
+cnn_33,cnn,33.0,0,T-shirt/top,6,Shirt,74,0.074
+cnn_33,cnn,33.0,6,Shirt,2,Pullover,67,0.067
+cnn_33,cnn,33.0,4,Coat,2,Pullover,61,0.061
+cnn_33,cnn,33.0,2,Pullover,4,Coat,56,0.056
+cnn_33,cnn,33.0,4,Coat,6,Shirt,48,0.048
+cnn_33,cnn,33.0,2,Pullover,6,Shirt,40,0.04
+cnn_33,cnn,33.0,3,Dress,4,Coat,38,0.038
+cnn_33,cnn,33.0,6,Shirt,3,Dress,33,0.033
+cnn_33,cnn,33.0,9,Ankle boot,7,Sneaker,31,0.031
+cnn_33,cnn,33.0,7,Sneaker,9,Ankle boot,29,0.029
+cnn_33,cnn,33.0,3,Dress,6,Shirt,26,0.026
+cnn_33,cnn,33.0,0,T-shirt/top,3,Dress,19,0.019
+cnn_33,cnn,33.0,3,Dress,0,T-shirt/top,18,0.018
+cnn_33,cnn,33.0,0,T-shirt/top,2,Pullover,17,0.017
+cnn_33,cnn,33.0,2,Pullover,0,T-shirt/top,17,0.017
+cnn_33,cnn,33.0,4,Coat,3,Dress,16,0.016
+cnn_33,cnn,33.0,7,Sneaker,5,Sandal,16,0.016
+cnn_33,cnn,33.0,5,Sandal,7,Sneaker,11,0.011
+cnn_33,cnn,33.0,9,Ankle boot,5,Sandal,9,0.009
+cnn_33,cnn,33.0,2,Pullover,3,Dress,8,0.008
+cnn_33,cnn,33.0,3,Dress,1,Trouser,7,0.007
+cnn_33,cnn,33.0,6,Shirt,8,Bag,7,0.007
+cnn_33,cnn,33.0,0,T-shirt/top,4,Coat,6,0.006
+cnn_33,cnn,33.0,0,T-shirt/top,8,Bag,6,0.006
+cnn_33,cnn,33.0,1,Trouser,3,Dress,6,0.006
+cnn_33,cnn,33.0,3,Dress,2,Pullover,5,0.005
+cnn_33,cnn,33.0,8,Bag,4,Coat,5,0.005
+cnn_33,cnn,33.0,1,Trouser,4,Coat,4,0.004
+cnn_33,cnn,33.0,8,Bag,0,T-shirt/top,4,0.004
+cnn_33,cnn,33.0,1,Trouser,6,Shirt,2,0.002
+cnn_33,cnn,33.0,2,Pullover,8,Bag,2,0.002
+cnn_33,cnn,33.0,5,Sandal,9,Ankle boot,2,0.002
+cnn_33,cnn,33.0,8,Bag,1,Trouser,2,0.002
+cnn_33,cnn,33.0,8,Bag,2,Pullover,2,0.002
+cnn_33,cnn,33.0,8,Bag,3,Dress,2,0.002
+cnn_33,cnn,33.0,8,Bag,5,Sandal,2,0.002
+cnn_33,cnn,33.0,8,Bag,6,Shirt,2,0.002
+cnn_33,cnn,33.0,8,Bag,7,Sneaker,2,0.002
+cnn_33,cnn,33.0,1,Trouser,0,T-shirt/top,1,0.001
+cnn_33,cnn,33.0,1,Trouser,2,Pullover,1,0.001
+cnn_33,cnn,33.0,1,Trouser,8,Bag,1,0.001
+cnn_33,cnn,33.0,2,Pullover,1,Trouser,1,0.001
+cnn_33,cnn,33.0,3,Dress,8,Bag,1,0.001
+cnn_33,cnn,33.0,4,Coat,0,T-shirt/top,1,0.001
+cnn_33,cnn,33.0,5,Sandal,8,Bag,1,0.001
+cnn_33,cnn,33.0,6,Shirt,1,Trouser,1,0.001
+cnn_33,cnn,33.0,9,Ankle boot,6,Shirt,1,0.001
+cnn_33,cnn,33.0,0,T-shirt/top,1,Trouser,0,0.0
+cnn_33,cnn,33.0,0,T-shirt/top,5,Sandal,0,0.0
+cnn_33,cnn,33.0,0,T-shirt/top,7,Sneaker,0,0.0
+cnn_33,cnn,33.0,0,T-shirt/top,9,Ankle boot,0,0.0
+cnn_33,cnn,33.0,1,Trouser,5,Sandal,0,0.0
+cnn_33,cnn,33.0,1,Trouser,7,Sneaker,0,0.0
+cnn_33,cnn,33.0,1,Trouser,9,Ankle boot,0,0.0
+cnn_33,cnn,33.0,2,Pullover,5,Sandal,0,0.0
+cnn_33,cnn,33.0,2,Pullover,7,Sneaker,0,0.0
+cnn_33,cnn,33.0,2,Pullover,9,Ankle boot,0,0.0
+cnn_33,cnn,33.0,3,Dress,5,Sandal,0,0.0
+cnn_33,cnn,33.0,3,Dress,7,Sneaker,0,0.0
+cnn_33,cnn,33.0,3,Dress,9,Ankle boot,0,0.0
+cnn_33,cnn,33.0,4,Coat,1,Trouser,0,0.0
+cnn_33,cnn,33.0,4,Coat,5,Sandal,0,0.0
+cnn_33,cnn,33.0,4,Coat,7,Sneaker,0,0.0
+cnn_33,cnn,33.0,4,Coat,8,Bag,0,0.0
+cnn_33,cnn,33.0,4,Coat,9,Ankle boot,0,0.0
+cnn_33,cnn,33.0,5,Sandal,0,T-shirt/top,0,0.0
+cnn_33,cnn,33.0,5,Sandal,1,Trouser,0,0.0
+cnn_33,cnn,33.0,5,Sandal,2,Pullover,0,0.0
+cnn_33,cnn,33.0,5,Sandal,3,Dress,0,0.0
+cnn_33,cnn,33.0,5,Sandal,4,Coat,0,0.0
+cnn_33,cnn,33.0,5,Sandal,6,Shirt,0,0.0
+cnn_33,cnn,33.0,6,Shirt,5,Sandal,0,0.0
+cnn_33,cnn,33.0,6,Shirt,7,Sneaker,0,0.0
+cnn_33,cnn,33.0,6,Shirt,9,Ankle boot,0,0.0
+cnn_33,cnn,33.0,7,Sneaker,0,T-shirt/top,0,0.0
+cnn_33,cnn,33.0,7,Sneaker,1,Trouser,0,0.0
+cnn_33,cnn,33.0,7,Sneaker,2,Pullover,0,0.0
+cnn_33,cnn,33.0,7,Sneaker,3,Dress,0,0.0
+cnn_33,cnn,33.0,7,Sneaker,4,Coat,0,0.0
+cnn_33,cnn,33.0,7,Sneaker,6,Shirt,0,0.0
+cnn_33,cnn,33.0,7,Sneaker,8,Bag,0,0.0
+cnn_33,cnn,33.0,8,Bag,9,Ankle boot,0,0.0
+cnn_33,cnn,33.0,9,Ankle boot,0,T-shirt/top,0,0.0
+cnn_33,cnn,33.0,9,Ankle boot,1,Trouser,0,0.0
+cnn_33,cnn,33.0,9,Ankle boot,2,Pullover,0,0.0
+cnn_33,cnn,33.0,9,Ankle boot,3,Dress,0,0.0
+cnn_33,cnn,33.0,9,Ankle boot,4,Coat,0,0.0
+cnn_33,cnn,33.0,9,Ankle boot,8,Bag,0,0.0
+dropout_11,dropout,11.0,6,Shirt,0,T-shirt/top,142,0.142
+dropout_11,dropout,11.0,0,T-shirt/top,6,Shirt,74,0.074
+dropout_11,dropout,11.0,6,Shirt,4,Coat,73,0.073
+dropout_11,dropout,11.0,4,Coat,2,Pullover,68,0.068
+dropout_11,dropout,11.0,6,Shirt,2,Pullover,61,0.061
+dropout_11,dropout,11.0,2,Pullover,6,Shirt,55,0.055
+dropout_11,dropout,11.0,2,Pullover,4,Coat,53,0.053
+dropout_11,dropout,11.0,4,Coat,6,Shirt,52,0.052
+dropout_11,dropout,11.0,9,Ankle boot,7,Sneaker,37,0.037
+dropout_11,dropout,11.0,3,Dress,6,Shirt,32,0.032
+dropout_11,dropout,11.0,3,Dress,4,Coat,30,0.03
+dropout_11,dropout,11.0,6,Shirt,3,Dress,24,0.024
+dropout_11,dropout,11.0,4,Coat,3,Dress,23,0.023
+dropout_11,dropout,11.0,3,Dress,0,T-shirt/top,22,0.022
+dropout_11,dropout,11.0,7,Sneaker,9,Ankle boot,17,0.017
+dropout_11,dropout,11.0,2,Pullover,0,T-shirt/top,16,0.016
+dropout_11,dropout,11.0,5,Sandal,7,Sneaker,16,0.016
+dropout_11,dropout,11.0,0,T-shirt/top,3,Dress,15,0.015
+dropout_11,dropout,11.0,0,T-shirt/top,2,Pullover,13,0.013
+dropout_11,dropout,11.0,1,Trouser,3,Dress,11,0.011
+dropout_11,dropout,11.0,3,Dress,2,Pullover,10,0.01
+dropout_11,dropout,11.0,6,Shirt,8,Bag,10,0.01
+dropout_11,dropout,11.0,7,Sneaker,5,Sandal,9,0.009
+dropout_11,dropout,11.0,2,Pullover,3,Dress,8,0.008
+dropout_11,dropout,11.0,0,T-shirt/top,8,Bag,6,0.006
+dropout_11,dropout,11.0,3,Dress,1,Trouser,6,0.006
+dropout_11,dropout,11.0,0,T-shirt/top,4,Coat,5,0.005
+dropout_11,dropout,11.0,5,Sandal,9,Ankle boot,5,0.005
+dropout_11,dropout,11.0,8,Bag,0,T-shirt/top,5,0.005
+dropout_11,dropout,11.0,9,Ankle boot,5,Sandal,5,0.005
+dropout_11,dropout,11.0,3,Dress,8,Bag,3,0.003
+dropout_11,dropout,11.0,6,Shirt,1,Trouser,3,0.003
+dropout_11,dropout,11.0,8,Bag,3,Dress,3,0.003
+dropout_11,dropout,11.0,8,Bag,7,Sneaker,3,0.003
+dropout_11,dropout,11.0,0,T-shirt/top,5,Sandal,2,0.002
+dropout_11,dropout,11.0,1,Trouser,4,Coat,2,0.002
+dropout_11,dropout,11.0,1,Trouser,6,Shirt,2,0.002
+dropout_11,dropout,11.0,2,Pullover,1,Trouser,2,0.002
+dropout_11,dropout,11.0,8,Bag,2,Pullover,2,0.002
+dropout_11,dropout,11.0,8,Bag,4,Coat,2,0.002
+dropout_11,dropout,11.0,1,Trouser,8,Bag,1,0.001
+dropout_11,dropout,11.0,4,Coat,0,T-shirt/top,1,0.001
+dropout_11,dropout,11.0,4,Coat,8,Bag,1,0.001
+dropout_11,dropout,11.0,8,Bag,1,Trouser,1,0.001
+dropout_11,dropout,11.0,8,Bag,5,Sandal,1,0.001
+dropout_11,dropout,11.0,8,Bag,6,Shirt,1,0.001
+dropout_11,dropout,11.0,9,Ankle boot,6,Shirt,1,0.001
+dropout_11,dropout,11.0,0,T-shirt/top,1,Trouser,0,0.0
+dropout_11,dropout,11.0,0,T-shirt/top,7,Sneaker,0,0.0
+dropout_11,dropout,11.0,0,T-shirt/top,9,Ankle boot,0,0.0
+dropout_11,dropout,11.0,1,Trouser,0,T-shirt/top,0,0.0
+dropout_11,dropout,11.0,1,Trouser,2,Pullover,0,0.0
+dropout_11,dropout,11.0,1,Trouser,5,Sandal,0,0.0
+dropout_11,dropout,11.0,1,Trouser,7,Sneaker,0,0.0
+dropout_11,dropout,11.0,1,Trouser,9,Ankle boot,0,0.0
+dropout_11,dropout,11.0,2,Pullover,5,Sandal,0,0.0
+dropout_11,dropout,11.0,2,Pullover,7,Sneaker,0,0.0
+dropout_11,dropout,11.0,2,Pullover,8,Bag,0,0.0
+dropout_11,dropout,11.0,2,Pullover,9,Ankle boot,0,0.0
+dropout_11,dropout,11.0,3,Dress,5,Sandal,0,0.0
+dropout_11,dropout,11.0,3,Dress,7,Sneaker,0,0.0
+dropout_11,dropout,11.0,3,Dress,9,Ankle boot,0,0.0
+dropout_11,dropout,11.0,4,Coat,1,Trouser,0,0.0
+dropout_11,dropout,11.0,4,Coat,5,Sandal,0,0.0
+dropout_11,dropout,11.0,4,Coat,7,Sneaker,0,0.0
+dropout_11,dropout,11.0,4,Coat,9,Ankle boot,0,0.0
+dropout_11,dropout,11.0,5,Sandal,0,T-shirt/top,0,0.0
+dropout_11,dropout,11.0,5,Sandal,1,Trouser,0,0.0
+dropout_11,dropout,11.0,5,Sandal,2,Pullover,0,0.0
+dropout_11,dropout,11.0,5,Sandal,3,Dress,0,0.0
+dropout_11,dropout,11.0,5,Sandal,4,Coat,0,0.0
+dropout_11,dropout,11.0,5,Sandal,6,Shirt,0,0.0
+dropout_11,dropout,11.0,5,Sandal,8,Bag,0,0.0
+dropout_11,dropout,11.0,6,Shirt,5,Sandal,0,0.0
+dropout_11,dropout,11.0,6,Shirt,7,Sneaker,0,0.0
+dropout_11,dropout,11.0,6,Shirt,9,Ankle boot,0,0.0
+dropout_11,dropout,11.0,7,Sneaker,0,T-shirt/top,0,0.0
+dropout_11,dropout,11.0,7,Sneaker,1,Trouser,0,0.0
+dropout_11,dropout,11.0,7,Sneaker,2,Pullover,0,0.0
+dropout_11,dropout,11.0,7,Sneaker,3,Dress,0,0.0
+dropout_11,dropout,11.0,7,Sneaker,4,Coat,0,0.0
+dropout_11,dropout,11.0,7,Sneaker,6,Shirt,0,0.0
+dropout_11,dropout,11.0,7,Sneaker,8,Bag,0,0.0
+dropout_11,dropout,11.0,8,Bag,9,Ankle boot,0,0.0
+dropout_11,dropout,11.0,9,Ankle boot,0,T-shirt/top,0,0.0
+dropout_11,dropout,11.0,9,Ankle boot,1,Trouser,0,0.0
+dropout_11,dropout,11.0,9,Ankle boot,2,Pullover,0,0.0
+dropout_11,dropout,11.0,9,Ankle boot,3,Dress,0,0.0
+dropout_11,dropout,11.0,9,Ankle boot,4,Coat,0,0.0
+dropout_11,dropout,11.0,9,Ankle boot,8,Bag,0,0.0
+dropout_22,dropout,22.0,6,Shirt,0,T-shirt/top,145,0.145
+dropout_22,dropout,22.0,2,Pullover,4,Coat,73,0.073
+dropout_22,dropout,22.0,6,Shirt,4,Coat,70,0.07
+dropout_22,dropout,22.0,0,T-shirt/top,6,Shirt,64,0.064
+dropout_22,dropout,22.0,4,Coat,6,Shirt,59,0.059
+dropout_22,dropout,22.0,6,Shirt,2,Pullover,59,0.059
+dropout_22,dropout,22.0,2,Pullover,6,Shirt,48,0.048
+dropout_22,dropout,22.0,4,Coat,2,Pullover,41,0.041
+dropout_22,dropout,22.0,9,Ankle boot,7,Sneaker,36,0.036
+dropout_22,dropout,22.0,6,Shirt,3,Dress,32,0.032
+dropout_22,dropout,22.0,3,Dress,4,Coat,29,0.029
+dropout_22,dropout,22.0,0,T-shirt/top,3,Dress,24,0.024
+dropout_22,dropout,22.0,3,Dress,6,Shirt,24,0.024
+dropout_22,dropout,22.0,2,Pullover,0,T-shirt/top,22,0.022
+dropout_22,dropout,22.0,5,Sandal,7,Sneaker,17,0.017
+dropout_22,dropout,22.0,4,Coat,3,Dress,15,0.015
+dropout_22,dropout,22.0,7,Sneaker,9,Ankle boot,15,0.015
+dropout_22,dropout,22.0,0,T-shirt/top,2,Pullover,14,0.014
+dropout_22,dropout,22.0,3,Dress,0,T-shirt/top,12,0.012
+dropout_22,dropout,22.0,5,Sandal,9,Ankle boot,11,0.011
+dropout_22,dropout,22.0,1,Trouser,3,Dress,10,0.01
+dropout_22,dropout,22.0,6,Shirt,8,Bag,10,0.01
+dropout_22,dropout,22.0,2,Pullover,3,Dress,9,0.009
+dropout_22,dropout,22.0,0,T-shirt/top,8,Bag,8,0.008
+dropout_22,dropout,22.0,3,Dress,2,Pullover,8,0.008
+dropout_22,dropout,22.0,7,Sneaker,5,Sandal,7,0.007
+dropout_22,dropout,22.0,6,Shirt,1,Trouser,5,0.005
+dropout_22,dropout,22.0,8,Bag,7,Sneaker,4,0.004
+dropout_22,dropout,22.0,0,T-shirt/top,4,Coat,3,0.003
+dropout_22,dropout,22.0,2,Pullover,8,Bag,3,0.003
+dropout_22,dropout,22.0,8,Bag,4,Coat,3,0.003
+dropout_22,dropout,22.0,1,Trouser,4,Coat,2,0.002
+dropout_22,dropout,22.0,3,Dress,1,Trouser,2,0.002
+dropout_22,dropout,22.0,8,Bag,3,Dress,2,0.002
+dropout_22,dropout,22.0,8,Bag,6,Shirt,2,0.002
+dropout_22,dropout,22.0,9,Ankle boot,5,Sandal,2,0.002
+dropout_22,dropout,22.0,0,T-shirt/top,1,Trouser,1,0.001
+dropout_22,dropout,22.0,0,T-shirt/top,5,Sandal,1,0.001
+dropout_22,dropout,22.0,1,Trouser,0,T-shirt/top,1,0.001
+dropout_22,dropout,22.0,1,Trouser,2,Pullover,1,0.001
+dropout_22,dropout,22.0,1,Trouser,6,Shirt,1,0.001
+dropout_22,dropout,22.0,1,Trouser,8,Bag,1,0.001
+dropout_22,dropout,22.0,2,Pullover,1,Trouser,1,0.001
+dropout_22,dropout,22.0,4,Coat,0,T-shirt/top,1,0.001
+dropout_22,dropout,22.0,5,Sandal,8,Bag,1,0.001
+dropout_22,dropout,22.0,8,Bag,0,T-shirt/top,1,0.001
+dropout_22,dropout,22.0,8,Bag,1,Trouser,1,0.001
+dropout_22,dropout,22.0,8,Bag,2,Pullover,1,0.001
+dropout_22,dropout,22.0,8,Bag,5,Sandal,1,0.001
+dropout_22,dropout,22.0,9,Ankle boot,6,Shirt,1,0.001
+dropout_22,dropout,22.0,0,T-shirt/top,7,Sneaker,0,0.0
+dropout_22,dropout,22.0,0,T-shirt/top,9,Ankle boot,0,0.0
+dropout_22,dropout,22.0,1,Trouser,5,Sandal,0,0.0
+dropout_22,dropout,22.0,1,Trouser,7,Sneaker,0,0.0
+dropout_22,dropout,22.0,1,Trouser,9,Ankle boot,0,0.0
+dropout_22,dropout,22.0,2,Pullover,5,Sandal,0,0.0
+dropout_22,dropout,22.0,2,Pullover,7,Sneaker,0,0.0
+dropout_22,dropout,22.0,2,Pullover,9,Ankle boot,0,0.0
+dropout_22,dropout,22.0,3,Dress,5,Sandal,0,0.0
+dropout_22,dropout,22.0,3,Dress,7,Sneaker,0,0.0
+dropout_22,dropout,22.0,3,Dress,8,Bag,0,0.0
+dropout_22,dropout,22.0,3,Dress,9,Ankle boot,0,0.0
+dropout_22,dropout,22.0,4,Coat,1,Trouser,0,0.0
+dropout_22,dropout,22.0,4,Coat,5,Sandal,0,0.0
+dropout_22,dropout,22.0,4,Coat,7,Sneaker,0,0.0
+dropout_22,dropout,22.0,4,Coat,8,Bag,0,0.0
+dropout_22,dropout,22.0,4,Coat,9,Ankle boot,0,0.0
+dropout_22,dropout,22.0,5,Sandal,0,T-shirt/top,0,0.0
+dropout_22,dropout,22.0,5,Sandal,1,Trouser,0,0.0
+dropout_22,dropout,22.0,5,Sandal,2,Pullover,0,0.0
+dropout_22,dropout,22.0,5,Sandal,3,Dress,0,0.0
+dropout_22,dropout,22.0,5,Sandal,4,Coat,0,0.0
+dropout_22,dropout,22.0,5,Sandal,6,Shirt,0,0.0
+dropout_22,dropout,22.0,6,Shirt,5,Sandal,0,0.0
+dropout_22,dropout,22.0,6,Shirt,7,Sneaker,0,0.0
+dropout_22,dropout,22.0,6,Shirt,9,Ankle boot,0,0.0
+dropout_22,dropout,22.0,7,Sneaker,0,T-shirt/top,0,0.0
+dropout_22,dropout,22.0,7,Sneaker,1,Trouser,0,0.0
+dropout_22,dropout,22.0,7,Sneaker,2,Pullover,0,0.0
+dropout_22,dropout,22.0,7,Sneaker,3,Dress,0,0.0
+dropout_22,dropout,22.0,7,Sneaker,4,Coat,0,0.0
+dropout_22,dropout,22.0,7,Sneaker,6,Shirt,0,0.0
+dropout_22,dropout,22.0,7,Sneaker,8,Bag,0,0.0
+dropout_22,dropout,22.0,8,Bag,9,Ankle boot,0,0.0
+dropout_22,dropout,22.0,9,Ankle boot,0,T-shirt/top,0,0.0
+dropout_22,dropout,22.0,9,Ankle boot,1,Trouser,0,0.0
+dropout_22,dropout,22.0,9,Ankle boot,2,Pullover,0,0.0
+dropout_22,dropout,22.0,9,Ankle boot,3,Dress,0,0.0
+dropout_22,dropout,22.0,9,Ankle boot,4,Coat,0,0.0
+dropout_22,dropout,22.0,9,Ankle boot,8,Bag,0,0.0
+dropout_33,dropout,33.0,6,Shirt,0,T-shirt/top,115,0.115
+dropout_33,dropout,33.0,6,Shirt,4,Coat,107,0.107
+dropout_33,dropout,33.0,6,Shirt,2,Pullover,78,0.078
+dropout_33,dropout,33.0,2,Pullover,4,Coat,74,0.074
+dropout_33,dropout,33.0,0,T-shirt/top,6,Shirt,71,0.071
+dropout_33,dropout,33.0,4,Coat,2,Pullover,49,0.049
+dropout_33,dropout,33.0,2,Pullover,6,Shirt,34,0.034
+dropout_33,dropout,33.0,4,Coat,6,Shirt,34,0.034
+dropout_33,dropout,33.0,9,Ankle boot,7,Sneaker,34,0.034
+dropout_33,dropout,33.0,6,Shirt,3,Dress,33,0.033
+dropout_33,dropout,33.0,0,T-shirt/top,2,Pullover,31,0.031
+dropout_33,dropout,33.0,4,Coat,3,Dress,30,0.03
+dropout_33,dropout,33.0,3,Dress,6,Shirt,28,0.028
+dropout_33,dropout,33.0,3,Dress,4,Coat,27,0.027
+dropout_33,dropout,33.0,0,T-shirt/top,3,Dress,20,0.02
+dropout_33,dropout,33.0,7,Sneaker,5,Sandal,20,0.02
+dropout_33,dropout,33.0,7,Sneaker,9,Ankle boot,16,0.016
+dropout_33,dropout,33.0,3,Dress,0,T-shirt/top,15,0.015
+dropout_33,dropout,33.0,1,Trouser,3,Dress,11,0.011
+dropout_33,dropout,33.0,0,T-shirt/top,8,Bag,10,0.01
+dropout_33,dropout,33.0,3,Dress,2,Pullover,9,0.009
+dropout_33,dropout,33.0,6,Shirt,8,Bag,8,0.008
+dropout_33,dropout,33.0,2,Pullover,0,T-shirt/top,7,0.007
+dropout_33,dropout,33.0,3,Dress,1,Trouser,7,0.007
+dropout_33,dropout,33.0,5,Sandal,7,Sneaker,7,0.007
+dropout_33,dropout,33.0,9,Ankle boot,5,Sandal,7,0.007
+dropout_33,dropout,33.0,0,T-shirt/top,4,Coat,6,0.006
+dropout_33,dropout,33.0,2,Pullover,3,Dress,6,0.006
+dropout_33,dropout,33.0,8,Bag,4,Coat,5,0.005
+dropout_33,dropout,33.0,1,Trouser,4,Coat,4,0.004
+dropout_33,dropout,33.0,8,Bag,2,Pullover,3,0.003
+dropout_33,dropout,33.0,8,Bag,7,Sneaker,3,0.003
+dropout_33,dropout,33.0,1,Trouser,8,Bag,2,0.002
+dropout_33,dropout,33.0,5,Sandal,9,Ankle boot,2,0.002
+dropout_33,dropout,33.0,6,Shirt,1,Trouser,2,0.002
+dropout_33,dropout,33.0,8,Bag,0,T-shirt/top,2,0.002
+dropout_33,dropout,33.0,8,Bag,3,Dress,2,0.002
+dropout_33,dropout,33.0,1,Trouser,6,Shirt,1,0.001
+dropout_33,dropout,33.0,2,Pullover,1,Trouser,1,0.001
+dropout_33,dropout,33.0,8,Bag,1,Trouser,1,0.001
+dropout_33,dropout,33.0,8,Bag,5,Sandal,1,0.001
+dropout_33,dropout,33.0,9,Ankle boot,6,Shirt,1,0.001
+dropout_33,dropout,33.0,0,T-shirt/top,1,Trouser,0,0.0
+dropout_33,dropout,33.0,0,T-shirt/top,5,Sandal,0,0.0
+dropout_33,dropout,33.0,0,T-shirt/top,7,Sneaker,0,0.0
+dropout_33,dropout,33.0,0,T-shirt/top,9,Ankle boot,0,0.0
+dropout_33,dropout,33.0,1,Trouser,0,T-shirt/top,0,0.0
+dropout_33,dropout,33.0,1,Trouser,2,Pullover,0,0.0
+dropout_33,dropout,33.0,1,Trouser,5,Sandal,0,0.0
+dropout_33,dropout,33.0,1,Trouser,7,Sneaker,0,0.0
+dropout_33,dropout,33.0,1,Trouser,9,Ankle boot,0,0.0
+dropout_33,dropout,33.0,2,Pullover,5,Sandal,0,0.0
+dropout_33,dropout,33.0,2,Pullover,7,Sneaker,0,0.0
+dropout_33,dropout,33.0,2,Pullover,8,Bag,0,0.0
+dropout_33,dropout,33.0,2,Pullover,9,Ankle boot,0,0.0
+dropout_33,dropout,33.0,3,Dress,5,Sandal,0,0.0
+dropout_33,dropout,33.0,3,Dress,7,Sneaker,0,0.0
+dropout_33,dropout,33.0,3,Dress,8,Bag,0,0.0
+dropout_33,dropout,33.0,3,Dress,9,Ankle boot,0,0.0
+dropout_33,dropout,33.0,4,Coat,0,T-shirt/top,0,0.0
+dropout_33,dropout,33.0,4,Coat,1,Trouser,0,0.0
+dropout_33,dropout,33.0,4,Coat,5,Sandal,0,0.0
+dropout_33,dropout,33.0,4,Coat,7,Sneaker,0,0.0
+dropout_33,dropout,33.0,4,Coat,8,Bag,0,0.0
+dropout_33,dropout,33.0,4,Coat,9,Ankle boot,0,0.0
+dropout_33,dropout,33.0,5,Sandal,0,T-shirt/top,0,0.0
+dropout_33,dropout,33.0,5,Sandal,1,Trouser,0,0.0
+dropout_33,dropout,33.0,5,Sandal,2,Pullover,0,0.0
+dropout_33,dropout,33.0,5,Sandal,3,Dress,0,0.0
+dropout_33,dropout,33.0,5,Sandal,4,Coat,0,0.0
+dropout_33,dropout,33.0,5,Sandal,6,Shirt,0,0.0
+dropout_33,dropout,33.0,5,Sandal,8,Bag,0,0.0
+dropout_33,dropout,33.0,6,Shirt,5,Sandal,0,0.0
+dropout_33,dropout,33.0,6,Shirt,7,Sneaker,0,0.0
+dropout_33,dropout,33.0,6,Shirt,9,Ankle boot,0,0.0
+dropout_33,dropout,33.0,7,Sneaker,0,T-shirt/top,0,0.0
+dropout_33,dropout,33.0,7,Sneaker,1,Trouser,0,0.0
+dropout_33,dropout,33.0,7,Sneaker,2,Pullover,0,0.0
+dropout_33,dropout,33.0,7,Sneaker,3,Dress,0,0.0
+dropout_33,dropout,33.0,7,Sneaker,4,Coat,0,0.0
+dropout_33,dropout,33.0,7,Sneaker,6,Shirt,0,0.0
+dropout_33,dropout,33.0,7,Sneaker,8,Bag,0,0.0
+dropout_33,dropout,33.0,8,Bag,6,Shirt,0,0.0
+dropout_33,dropout,33.0,8,Bag,9,Ankle boot,0,0.0
+dropout_33,dropout,33.0,9,Ankle boot,0,T-shirt/top,0,0.0
+dropout_33,dropout,33.0,9,Ankle boot,1,Trouser,0,0.0
+dropout_33,dropout,33.0,9,Ankle boot,2,Pullover,0,0.0
+dropout_33,dropout,33.0,9,Ankle boot,3,Dress,0,0.0
+dropout_33,dropout,33.0,9,Ankle boot,4,Coat,0,0.0
+dropout_33,dropout,33.0,9,Ankle boot,8,Bag,0,0.0
+logistic,logistic,,6,Shirt,0,T-shirt/top,139,0.139
+logistic,logistic,,2,Pullover,4,Coat,129,0.129
+logistic,logistic,,6,Shirt,2,Pullover,127,0.127
+logistic,logistic,,4,Coat,2,Pullover,113,0.113
+logistic,logistic,,6,Shirt,4,Coat,105,0.105
+logistic,logistic,,0,T-shirt/top,6,Shirt,92,0.092
+logistic,logistic,,2,Pullover,6,Shirt,83,0.083
+logistic,logistic,,4,Coat,6,Shirt,82,0.082
+logistic,logistic,,0,T-shirt/top,3,Dress,49,0.049
+logistic,logistic,,5,Sandal,7,Sneaker,49,0.049
+logistic,logistic,,9,Ankle boot,7,Sneaker,44,0.044
+logistic,logistic,,3,Dress,6,Shirt,40,0.04
+logistic,logistic,,6,Shirt,3,Dress,39,0.039
+logistic,logistic,,4,Coat,3,Dress,35,0.035
+logistic,logistic,,7,Sneaker,5,Sandal,31,0.031
+logistic,logistic,,3,Dress,0,T-shirt/top,30,0.03
+logistic,logistic,,7,Sneaker,9,Ankle boot,30,0.03
+logistic,logistic,,3,Dress,4,Coat,29,0.029
+logistic,logistic,,6,Shirt,8,Bag,26,0.026
+logistic,logistic,,1,Trouser,3,Dress,25,0.025
+logistic,logistic,,2,Pullover,0,T-shirt/top,21,0.021
+logistic,logistic,,5,Sandal,9,Ankle boot,20,0.02
+logistic,logistic,,8,Bag,6,Shirt,20,0.02
+logistic,logistic,,0,T-shirt/top,2,Pullover,18,0.018
+logistic,logistic,,9,Ankle boot,5,Sandal,16,0.016
+logistic,logistic,,3,Dress,2,Pullover,15,0.015
+logistic,logistic,,0,T-shirt/top,8,Bag,11,0.011
+logistic,logistic,,2,Pullover,8,Bag,11,0.011
+logistic,logistic,,3,Dress,1,Trouser,11,0.011
+logistic,logistic,,8,Bag,3,Dress,10,0.01
+logistic,logistic,,2,Pullover,3,Dress,9,0.009
+logistic,logistic,,4,Coat,8,Bag,9,0.009
+logistic,logistic,,8,Bag,7,Sneaker,7,0.007
+logistic,logistic,,1,Trouser,6,Shirt,6,0.006
+logistic,logistic,,8,Bag,0,T-shirt/top,6,0.006
+logistic,logistic,,0,T-shirt/top,4,Coat,5,0.005
+logistic,logistic,,1,Trouser,2,Pullover,5,0.005
+logistic,logistic,,1,Trouser,4,Coat,5,0.005
+logistic,logistic,,3,Dress,8,Bag,5,0.005
+logistic,logistic,,8,Bag,2,Pullover,5,0.005
+logistic,logistic,,0,T-shirt/top,5,Sandal,4,0.004
+logistic,logistic,,2,Pullover,1,Trouser,4,0.004
+logistic,logistic,,5,Sandal,8,Bag,4,0.004
+logistic,logistic,,8,Bag,5,Sandal,4,0.004
+logistic,logistic,,0,T-shirt/top,1,Trouser,3,0.003
+logistic,logistic,,1,Trouser,0,T-shirt/top,2,0.002
+logistic,logistic,,1,Trouser,8,Bag,2,0.002
+logistic,logistic,,4,Coat,5,Sandal,2,0.002
+logistic,logistic,,6,Shirt,1,Trouser,2,0.002
+logistic,logistic,,8,Bag,4,Coat,2,0.002
+logistic,logistic,,2,Pullover,5,Sandal,1,0.001
+logistic,logistic,,4,Coat,1,Trouser,1,0.001
+logistic,logistic,,5,Sandal,0,T-shirt/top,1,0.001
+logistic,logistic,,5,Sandal,3,Dress,1,0.001
+logistic,logistic,,6,Shirt,5,Sandal,1,0.001
+logistic,logistic,,8,Bag,1,Trouser,1,0.001
+logistic,logistic,,9,Ankle boot,8,Bag,1,0.001
+logistic,logistic,,0,T-shirt/top,7,Sneaker,0,0.0
+logistic,logistic,,0,T-shirt/top,9,Ankle boot,0,0.0
+logistic,logistic,,1,Trouser,5,Sandal,0,0.0
+logistic,logistic,,1,Trouser,7,Sneaker,0,0.0
+logistic,logistic,,1,Trouser,9,Ankle boot,0,0.0
+logistic,logistic,,2,Pullover,7,Sneaker,0,0.0
+logistic,logistic,,2,Pullover,9,Ankle boot,0,0.0
+logistic,logistic,,3,Dress,5,Sandal,0,0.0
+logistic,logistic,,3,Dress,7,Sneaker,0,0.0
+logistic,logistic,,3,Dress,9,Ankle boot,0,0.0
+logistic,logistic,,4,Coat,0,T-shirt/top,0,0.0
+logistic,logistic,,4,Coat,7,Sneaker,0,0.0
+logistic,logistic,,4,Coat,9,Ankle boot,0,0.0
+logistic,logistic,,5,Sandal,1,Trouser,0,0.0
+logistic,logistic,,5,Sandal,2,Pullover,0,0.0
+logistic,logistic,,5,Sandal,4,Coat,0,0.0
+logistic,logistic,,5,Sandal,6,Shirt,0,0.0
+logistic,logistic,,6,Shirt,7,Sneaker,0,0.0
+logistic,logistic,,6,Shirt,9,Ankle boot,0,0.0
+logistic,logistic,,7,Sneaker,0,T-shirt/top,0,0.0
+logistic,logistic,,7,Sneaker,1,Trouser,0,0.0
+logistic,logistic,,7,Sneaker,2,Pullover,0,0.0
+logistic,logistic,,7,Sneaker,3,Dress,0,0.0
+logistic,logistic,,7,Sneaker,4,Coat,0,0.0
+logistic,logistic,,7,Sneaker,6,Shirt,0,0.0
+logistic,logistic,,7,Sneaker,8,Bag,0,0.0
+logistic,logistic,,8,Bag,9,Ankle boot,0,0.0
+logistic,logistic,,9,Ankle boot,0,T-shirt/top,0,0.0
+logistic,logistic,,9,Ankle boot,1,Trouser,0,0.0
+logistic,logistic,,9,Ankle boot,2,Pullover,0,0.0
+logistic,logistic,,9,Ankle boot,3,Dress,0,0.0
+logistic,logistic,,9,Ankle boot,4,Coat,0,0.0
+logistic,logistic,,9,Ankle boot,6,Shirt,0,0.0

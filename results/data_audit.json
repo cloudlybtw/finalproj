@@ -1,0 +1,104 @@
+{
+  "dataset": "Fashion-MNIST 2017 original release",
+  "source": "https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/data/fashion/",
+  "md5": {
+    "train-images-idx3-ubyte.gz": "8d4fb7e6c68d591d4c3dfef9ec88bf0d",
+    "train-labels-idx1-ubyte.gz": "25c81989df183df01b3e8a0aad5dffbe",
+    "t10k-images-idx3-ubyte.gz": "bef4ecab320f06d8554ea6380940ec79",
+    "t10k-labels-idx1-ubyte.gz": "bb300cfdad3c16e7a12a480ee83cd310"
+  },
+  "labels": {
+    "0": "T-shirt/top",
+    "1": "Trouser",
+    "2": "Pullover",
+    "3": "Dress",
+    "4": "Coat",
+    "5": "Sandal",
+    "6": "Shirt",
+    "7": "Sneaker",
+    "8": "Bag",
+    "9": "Ankle boot"
+  },
+  "original_train": 60000,
+  "official_test": 10000,
+  "counts": {
+    "train": 48000,
+    "validation": 12000,
+    "test": 10000
+  },
+  "class_counts": {
+    "original_train": [
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000,
+      6000
+    ],
+    "train": [
+      4800,
+      4800,
+      4800,
+      4800,
+      4800,
+      4800,
+      4800,
+      4800,
+      4800,
+      4800
+    ],
+    "validation": [
+      1200,
+      1200,
+      1200,
+      1200,
+      1200,
+      1200,
+      1200,
+      1200,
+      1200,
+      1200
+    ],
+    "test": [
+      1000,
+      1000,
+      1000,
+      1000,
+      1000,
+      1000,
+      1000,
+      1000,
+      1000,
+      1000
+    ]
+  },
+  "missing_pixels": 0,
+  "missing_labels": 0,
+  "pixel_dtype": "uint8",
+  "pixel_range": [
+    0,
+    255
+  ],
+  "duplicates": {
+    "train_duplicate_excess": 0,
+    "test_duplicate_excess": 0,
+    "train_test_shared_hashes": 0,
+    "development_rows_matching_test": 0,
+    "development_conflicting_label_groups": 0,
+    "excluded_total": 0,
+    "remaining_cross_partition_hash_overlap": 0
+  },
+  "policy": "Preserve full official test set. Exclude development hashes present in test. Exclude conflicting-label development hash groups. Keep lowest original index per remaining exact-image hash. Then fixed stratified split.",
+  "preprocessing": {
+    "mean": 0.28588689913465387,
+    "std": 0.3529352823291432,
+    "fit_partition": "train only",
+    "operation": "(uint8/255 - mean)/std"
+  },
+  "split_seed": 407,
+  "grouping_limit": "No object/person IDs supplied; exact pixel hashes only. Near duplicates and unseen acquisition dependence may remain."
+}

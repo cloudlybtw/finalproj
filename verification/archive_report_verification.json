@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "zip_path": "/Users/cloud/robt-final-project/output/ROBT407_code.zip",
+  "tested_zip_sha256": "4e251374af6f4537b56817e6cd078cda832391f205ea18fe1d80b9b993993b67",
+  "extracted_root": "/private/tmp/robt407-package-check-_zogzy4v/robt407-fashion-mnist",
+  "command": "sh tools/compile_latex.sh report/report.tex output/pdf",
+  "compiler_dependency": "Tectonic 0.17.0 binary and support-file cache copied from existing workspace tools only; no system LaTeX install",
+  "report_inputs": "All report sources, generated fragments and scientific figures read from extracted archive only",
+  "report_input_entries_checked_against_zip": 21,
+  "pages": 7,
+  "content_pages": 6,
+  "reference_pages": [
+    7
+  ],
+  "extracted_pdf_text_equals_delivered_pdf": true,
+  "literal_double_hyphen_command_verified": true,
+  "report_source_sha256": "471bb9c6cd99e582de247a1861a1fe1162f1b529a701b2aa8dc05d9ea6432ee4",
+  "extracted_pdf_sha256": "e4b0fa3b9f7ea1b77bd0768edbc1058f6a92f8056014eebad79bf923896acfcb",
+  "no_overfull_boxes_undefined_references_or_font_substitution": true,
+  "note": "Final archive report source and assets compiled successfully after double-hyphen repair. Compiler binary/cache are external tool dependencies, intentionally excluded from code ZIP. PDF binary hashes can vary due build metadata; all page text is identical."
+}

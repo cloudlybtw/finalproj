@@ -1,0 +1,10 @@
+{
+  "mode": "verify",
+  "completed_at_utc": "2026-11-20T10:50:56.166753+00:00",
+  "notebook": "notebooks/fashion_mnist.verified.ipynb",
+  "code_cells": 8,
+  "executed_cells": 8,
+  "error_outputs": 0,
+  "outputs_retained": 21,
+  "sha256": "44a9d8bf38f1fb53609c68b8e5a680748a6323bb7ba22e11e9ee3b9579cb8b29"
+}
